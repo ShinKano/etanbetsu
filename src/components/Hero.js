@@ -31,11 +31,11 @@ const Hero = () => {
                         <h2 className="subtitle color-white">
                             日本一寒い村
                             <span className="inline-block">が作り出す</span>
-                            <span className="inline-block">透き通った天然氷</span>
+                            <span className="inline-block">たったひとつの天然氷</span>
                         </h2>
                         <Button 
                             to="/contact"
-                            text="予約はコチラ！"
+                            text="お問い合わせ"
                         />
                     </div>
                 </div>

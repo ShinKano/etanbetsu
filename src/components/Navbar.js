@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-//
-import logo from '../img/logo.png'
+
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -42,7 +41,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="logo" />
+              ホーム
             </Link>
             {/* Hamburger menu */}
             <div
@@ -61,16 +60,16 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/rooms">
-                お部屋の紹介
+                天然氷について
+              </Link>
+              <Link className="navbar-item" to="/calender">
+                江丹別について
               </Link>
               <Link className="navbar-item" to="/blog">
                 すべての記事
               </Link>
-              <Link className="navbar-item" to="/calender">
-                セブのイベント
-              </Link>
               <Link className="navbar-item" to="/contact">
-                ご予約・お問い合わせ
+                お問い合わせ
               </Link>
             </div>
             

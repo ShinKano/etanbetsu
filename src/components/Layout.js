@@ -54,8 +54,6 @@ const TemplateWrapper = ({ children }) => {
         />
         <meta name="google-site-verification" content="AtBXV62-NYJ_gWHW-q9hBGDC0iYSt3vkvl2r8lfcTac" />
         
-        <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Noto+Sans+JP:400,700" rel="stylesheet" />
-
       </Helmet>
       <Navbar />
       <div>{children}</div>
