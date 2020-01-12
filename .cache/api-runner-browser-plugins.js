@@ -6,5 +6,5 @@ module.exports = [{
       options: {"plugins":[],"maxWidth":2048},
     },{
       plugin: require('../node_modules/gatsby-plugin-netlify-cms/gatsby-browser.js'),
-      options: {"plugins":[],"modulePath":"/Users/Shinnosuke/Documents/batch5/ssi-guesthouse/src/cms/cms.js"},
+      options: {"plugins":[],"modulePath":"/Users/Shinnosuke/Documents/batch5/etanbetsu/src/cms/cms.js"},
     }]

@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('/Users/Shinnosuke/Documents/batch5/ssi-guesthouse/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/Shinnosuke/Documents/batch5/etanbetsu/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Shinnosuke/Documents/batch5/ssi-guesthouse/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/Users/Shinnosuke/Documents/batch5/etanbetsu/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Shinnosuke/Documents/batch5/ssi-guesthouse/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/Users/Shinnosuke/Documents/batch5/etanbetsu/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-83299337-3","head":true,"exclude":["/preview/**","/do-not-track/me/too/"],"pageTransitionDelay":0},
     },{
-      plugin: require('/Users/Shinnosuke/Documents/batch5/ssi-guesthouse/node_modules/gatsby-remark-images/gatsby-ssr'),
+      plugin: require('/Users/Shinnosuke/Documents/batch5/etanbetsu/node_modules/gatsby-remark-images/gatsby-ssr'),
       options: {"plugins":[],"maxWidth":2048},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
