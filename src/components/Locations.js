@@ -3,12 +3,12 @@ import React from 'react'
 import Button from '../elements/Button'
 import Gallery_1_2 from '../elements/Gallery_1_2'
 //
-import apas_out from '../img/apas_out.jpg'
-import apas_single001 from '../img/apas_single001.jpg'
-import apas_kitchen from '../img/apas_kitchen.jpg'
-import guadalupe_out from '../img/guadalupe_out.jpg'
-import guadalupe_single002 from '../img/guadalupe_single002.jpg'
-import guadalupe_living001 from '../img/guadalupe_living001.jpg'
+import ice01 from '../img/ice01.jpg'
+import ice02 from '../img/ice02.jpg'
+import ice03 from '../img/ice03.jpg'
+import etanbetsu01 from '../img/etanbetsu01.jpg'
+import etanbetsu02 from '../img/etanbetsu02.jpg'
+import etanbetsu03 from '../img/etanbetsu03.jpg'
 
 
 
@@ -45,9 +45,9 @@ const Locations = () => {
                     </div>
                     <div className="column is-6">
                         <Gallery_1_2
-                            img1={apas_out}
-                            img2={apas_single001}
-                            img3={apas_kitchen}
+                            img1={ice01}
+                            img2={ice02}
+                            img3={ice03}
                         />
                     </div>
                 </div>
@@ -57,9 +57,9 @@ const Locations = () => {
                 <div className="columns reverse margin-top-2">
                     <div className="column is-6">
                         <Gallery_1_2
-                            img1={guadalupe_living001}
-                            img2={guadalupe_single002}
-                            img3={guadalupe_out}
+                            img1={etanbetsu01}
+                            img2={etanbetsu02}
+                            img3={etanbetsu03}
                         />
                     </div>
                     <div className="column max-width-1">
@@ -72,7 +72,7 @@ const Locations = () => {
                             特殊な盆地型の地形が特徴で、このために冬場も風が少なく、空気がピンと張り詰めたよう
                             になります。空気中の塵が風で舞わないため、不純物が氷中に侵入しにくい気候です。
                             <br /><br />
-                            蔵と氷室があるのはボンベツ川の流域です。これは石狩川にも合流する綺麗な水です。
+                            蔵と氷室があるのはボンベツ川の流域で、ここには石狩川にも合流する綺麗な水が流れています。
                         </p>
                         <div className="has-text-centered margin-top-2">
                             <Button
