@@ -34,6 +34,7 @@ const Hero = () => {
                             <span className="inline-block">たったひとつの天然氷</span>
                         </h2>
                         <Button 
+                            outline={true}
                             to="/contact"
                             text="お問い合わせ"
                         />

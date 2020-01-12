@@ -17,25 +17,29 @@ const Locations = () => {
     return(
         <section className="section has-background-lightblue">
             <div className="container">
-                <h2 className="title has-text-centered is-spaced">
-                    <span className="inline-block">選べる</span>
-                    <span className="inline-block">ロケーション</span>
+                <h2 className="title has-text-centered has-text-white is-spaced">
+                    <span className="inline-block">天然氷と</span>
+                    <span className="inline-block">江丹別</span>
                 </h2>
                 <div className="columns margin-top-2">
                     <div className="column max-width-1">
-                        <h3 className="title is-4 has-text-centered">セブ・アパス</h3>
+                        <h3 className="title is-4 has-text-centered has-text-white">天然氷について</h3>
                         <p>
-                            ゲストハウスストーリーシェア「アパス」は賑やかなセブの中心街に位置しています。
+                            天然氷とは、自然の寒さで凍った氷のことです。かつて冷凍技術が存在しない頃は、
+                            各地に氷室があり、池や湖で氷は採取されていましたが、
+                            現代では氷を池や湖から採取することはほとんどなくなりました。
                             <br /><br />
-                            たくさんのアクティビティやお店が近くにありながら、治安もよく、落ち着いた雰囲気でリラックスしていただけます。
+                            自然の寒さが作り出す氷は、冷凍庫と違いゆっくり時間をかけて氷になるその過程において、
+                            水中の不純物が押し出され、曇りのない透き通った美しい氷になります。
                             <br /><br />
-                            ゲストハウスはwifiも完備。リビングでご自身のスマホやパソコンでご使用いただけます。 
-                            一人で過ごされたいお客様用の静かなスペースのご用意もございます。
+                            また、美しい氷は味にも雑味がなく、ウイスキーやカクテルなどお酒にも最適。
+                            純度が高いため溶けにくく、かき氷にすればさらに絶品です。
                         </p>
                         <div className="has-text-centered margin-top-2">
                             <Button
+                                outline={true}
                                 to="/rooms#apas"
-                                text="お部屋を見る"
+                                text="さらに詳しく"
                             />
                         </div>
                     </div>
@@ -59,21 +63,22 @@ const Locations = () => {
                         />
                     </div>
                     <div className="column max-width-1">
-                        <h3 className="title is-4 has-text-centered">セブ・グアダルーペ</h3>
+                        <h3 className="title is-4 has-text-centered has-text-white">江丹別について</h3>
                         <p>
-                            ゲストハウスストーリーシェア「グアダルーペ」はセブの中心地から少しだけ離れた場所にあります。
-                            <strong>日本語禁止・イングリッシュオンリー（EOP）ですので、ゲストの方は国籍に関わらず英語で会話をします。</strong>
-                            そのため、海外のゲスト同士での交流がとても盛んになっています。
+                            江丹別は北海道 旭川市にある小さな村です。現在は過疎により限界集落となっています。
+                            旭川と江丹別は、日本全国的にみても最も寒い地域の一つで、真冬はマイナス30度以下を
+                            記録することもあるほどです。
                             <br /><br />
-                            こうした世界中から集まるゲストとの交流が人気の理由です。
-                            語学学校が運営するゲストハウスなので、英語の体験授業も受けていただけます。
+                            特殊な盆地型の地形が特徴で、このために冬場も風が少なく、空気がピンと張り詰めたよう
+                            になります。空気中の塵が風で舞わないため、不純物が氷中に侵入しにくい気候です。
                             <br /><br />
-                            観光だけでない、ココでしかできない旅の思い出をお作りください。
+                            蔵と氷室があるのはボンベツ川の流域です。これは石狩川にも合流する綺麗な水です。
                         </p>
                         <div className="has-text-centered margin-top-2">
                             <Button
+                                outline={true}
                                 to="/rooms#guadalupe"
-                                text="お部屋を見る"
+                                text="さらに詳しく"
                             />
                         </div>
                     </div>
