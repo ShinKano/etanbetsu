@@ -7,13 +7,12 @@ exports.components = {
   "component---cache-dev-404-page-js": () => import("dev-404-page.js" /* webpackChunkName: "component---cache-dev-404-page-js" */),
   "component---src-pages-404-js": () => import("../src/pages/404.js" /* webpackChunkName: "component---src-pages-404-js" */),
   "component---src-pages-blog-index-js": () => import("../src/pages/blog/index.js" /* webpackChunkName: "component---src-pages-blog-index-js" */),
-  "component---src-pages-calender-2020-jan-js": () => import("../src/pages/calender/2020/Jan.js" /* webpackChunkName: "component---src-pages-calender-2020-jan-js" */),
-  "component---src-pages-calender-index-js": () => import("../src/pages/calender/index.js" /* webpackChunkName: "component---src-pages-calender-index-js" */),
   "component---src-pages-contact-file-upload-js": () => import("../src/pages/contact/file-upload.js" /* webpackChunkName: "component---src-pages-contact-file-upload-js" */),
   "component---src-pages-contact-index-js": () => import("../src/pages/contact/index.js" /* webpackChunkName: "component---src-pages-contact-index-js" */),
   "component---src-pages-contact-thanks-js": () => import("../src/pages/contact/thanks.js" /* webpackChunkName: "component---src-pages-contact-thanks-js" */),
+  "component---src-pages-etanbetsu-js": () => import("../src/pages/etanbetsu.js" /* webpackChunkName: "component---src-pages-etanbetsu-js" */),
   "component---src-pages-index-js": () => import("../src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
-  "component---src-pages-tags-index-js": () => import("../src/pages/tags/index.js" /* webpackChunkName: "component---src-pages-tags-index-js" */),
-  "component---src-pages-kori-js": () => import("../src/pages/kori.js" /* webpackChunkName: "component---src-pages-kori-js" */)
+  "component---src-pages-kori-js": () => import("../src/pages/kori.js" /* webpackChunkName: "component---src-pages-kori-js" */),
+  "component---src-pages-tags-index-js": () => import("../src/pages/tags/index.js" /* webpackChunkName: "component---src-pages-tags-index-js" */)
 }
 

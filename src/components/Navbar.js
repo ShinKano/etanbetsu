@@ -62,7 +62,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/kori">
                 天然氷について
               </Link>
-              <Link className="navbar-item" to="/calender">
+              <Link className="navbar-item" to="/etanbetsu">
                 江丹別について
               </Link>
               <Link className="navbar-item" to="/blog">

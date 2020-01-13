@@ -77,7 +77,7 @@ const Locations = () => {
                         <div className="has-text-centered margin-top-2">
                             <Button
                                 outline={true}
-                                to="/rooms#guadalupe"
+                                to="/etanbetsu"
                                 text="さらに詳しく"
                             />
                         </div>

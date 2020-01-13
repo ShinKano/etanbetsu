@@ -30,11 +30,11 @@ const Footer = class extends React.Component {
                     <li>
                       <a
                         className="navbar-item footer-item"
-                        href="/calender"
+                        href="/kori"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        セブのイベント情報
+                        天然氷について
                       </a>
                     </li>
                   </ul>
@@ -44,8 +44,8 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item footer-item" to="/blog">
-                        全ての記事
+                      <Link className="navbar-item footer-item" to="/etanbetsu">
+                        江丹別について
                       </Link>
                     </li>
                     <li>
@@ -57,14 +57,14 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social margin-top-2">
-                <a title="facebook" href="https://www.facebook.com/StoryShare/">
+                <a title="facebook" href="#">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com/ssistaff">
+                <a title="twitter" href="#">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -72,7 +72,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://www.instagram.com/daily_english_for_you/">
+                <a title="instagram" href="#">
                   <img
                     src={instagram}
                     alt="Instagram"

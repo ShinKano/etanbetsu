@@ -39,7 +39,7 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>ご予約・お問い合わせ</h1>
+              <h1>お問い合わせ</h1>
               <form
                 name="contact"
                 method="post"
@@ -88,54 +88,6 @@ export default class Index extends React.Component {
                 </div>
 
                 <div className="field">
-                  <label className="label" htmlFor={'email'}>
-                    チェックイン希望日（ご予約の場合）
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'date'}
-                      name={'checkin'}
-                      onChange={this.handleChange}
-                      id={'checkin'}
-                      required={false}
-                    />
-                  </div>
-                </div>
-
-                <div className="field">
-                  <label className="label" htmlFor={'email'}>
-                    チェックアウト希望日（ご予約の場合）
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'date'}
-                      name={'checkout'}
-                      onChange={this.handleChange}
-                      id={'checkout'}
-                      required={false}
-                    />
-                  </div>
-                </div>
-
-                <div className="field">
-                  <label className="label" htmlFor={'email'}>
-                    宿泊する人数（ご予約の場合）
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'number'}
-                      name={'people'}
-                      onChange={this.handleChange}
-                      id={'people'}
-                      required={false}
-                    />
-                  </div>
-                </div>
-
-                <div className="field">
                   <label className="label" htmlFor={'message'}>
                     お問い合わせ内容
                   </label>
@@ -146,23 +98,18 @@ export default class Index extends React.Component {
                       onChange={this.handleChange}
                       id={'message'}
                       required={true}
-                      placeholder="予約したい / 空き状況の確認がしたい etc..."
+                      placeholder=""
                     />
                   </div>
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    送信！
+                    送信
                   </button>
                 </div>
               </form>
               
               <p className="margin-top-2">
-                上記のお問い合わせボタンより、お気軽にお問い合わせください。
-                スタッフがあなたのご質問、ご要望にお答えします。 
-                <br /><br />
-                ※フィリピンの祝祭日、土日以外、通常24時間以内にお返事しております。
-                <br />
                 ※携帯メールの場合、ご返事をお届けできないケースが増えておりますので、できるだけPCメールをご入力ください。
                 <br />
                 ※もし24時間たっても返信がない場合は、こちらのメールが届かない状態になっている可能性があります。

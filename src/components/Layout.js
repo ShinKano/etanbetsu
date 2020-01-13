@@ -47,11 +47,8 @@ const TemplateWrapper = ({ children }) => {
         
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content="https://www.ss-guesthouse.com/" />
-        <meta
-          property="og:image"
-          content={`https://www.ss-guesthouse.com/img/og-image001.png`}
-        />
+        <meta property="og:url" content="https://www.engori.com/" />
+        
         <meta name="google-site-verification" content="AtBXV62-NYJ_gWHW-q9hBGDC0iYSt3vkvl2r8lfcTac" />
         
       </Helmet>
