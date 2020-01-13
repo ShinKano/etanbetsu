@@ -16,7 +16,7 @@ exports.components = {
   "component---src-pages-contact-index-js": hot(preferDefault(require("/Users/Shinnosuke/Documents/batch5/etanbetsu/src/pages/contact/index.js"))),
   "component---src-pages-contact-thanks-js": hot(preferDefault(require("/Users/Shinnosuke/Documents/batch5/etanbetsu/src/pages/contact/thanks.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/Shinnosuke/Documents/batch5/etanbetsu/src/pages/index.js"))),
-  "component---src-pages-rooms-js": hot(preferDefault(require("/Users/Shinnosuke/Documents/batch5/etanbetsu/src/pages/rooms.js"))),
-  "component---src-pages-tags-index-js": hot(preferDefault(require("/Users/Shinnosuke/Documents/batch5/etanbetsu/src/pages/tags/index.js")))
+  "component---src-pages-tags-index-js": hot(preferDefault(require("/Users/Shinnosuke/Documents/batch5/etanbetsu/src/pages/tags/index.js"))),
+  "component---src-pages-kori-js": hot(preferDefault(require("/Users/Shinnosuke/Documents/batch5/etanbetsu/src/pages/kori.js")))
 }
 

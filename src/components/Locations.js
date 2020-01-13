@@ -1,7 +1,7 @@
 import React from 'react'
 //
 import Button from '../elements/Button'
-import Gallery_1_2 from '../elements/Gallery_1_2'
+import GalleryOneTwo from '../elements/GalleryOneTwo'
 //
 import ice01 from '../img/ice01.jpg'
 import ice02 from '../img/ice02.jpg'
@@ -38,13 +38,13 @@ const Locations = () => {
                         <div className="has-text-centered margin-top-2">
                             <Button
                                 outline={true}
-                                to="/rooms#apas"
+                                to="/kori#apas"
                                 text="さらに詳しく"
                             />
                         </div>
                     </div>
                     <div className="column is-6">
-                        <Gallery_1_2
+                        <GalleryOneTwo
                             img1={ice01}
                             img2={ice02}
                             img3={ice03}
@@ -56,7 +56,7 @@ const Locations = () => {
 
                 <div className="columns reverse margin-top-2">
                     <div className="column is-6">
-                        <Gallery_1_2
+                        <GalleryOneTwo
                             img1={etanbetsu01}
                             img2={etanbetsu02}
                             img3={etanbetsu03}
