@@ -5,217 +5,172 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
-/styles.89e1356cc58226f73fb8.css
+/styles.e72a35bd6a3fc7342f64.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-460f55ba72986a40fe59.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-d1ea12bf9b79e430d3ee.js
+/commons-64fffa09c0fac7f1e245.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-blog-post-js-2d73e1e271ca75962273.js
+/component---src-templates-blog-post-js-55fe547eb28193bd39cf.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-tags-js-e1963bb0c8a318b4b90b.js
+/component---src-templates-tags-js-edd4e31418bb41459012.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-404-js-b64d0b7b3309b3216a83.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-blog-index-js-4ca2de93b42a69eaf9f3.js
+/component---src-pages-blog-index-js-1175747bcf6b005bda9c.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-contact-file-upload-js-c7f7966a5becc335e635.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-contact-index-js-2d1c8a1286bd8a349fc7.js
+/component---src-pages-contact-index-js-07bcdd0f9af08da276ae.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-contact-thanks-js-154dd347aefb6390d51f.js
+/component---src-pages-contact-thanks-js-95ca23888d98baf53c94.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-js-7cff293232425a6d0871.js
+/component---src-pages-etanbetsu-js-3872ff87aa150595e474.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-tags-index-js-d1e8d6f0740f2dc12405.js
+/component---src-pages-index-js-f38a4e2a872f9128735f.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-73df07ceb98167a08373.js
+/component---src-pages-kori-js-19d2e3631f2d8277d95c.js
   Cache-Control: public, max-age=31536000, immutable
-/app-2be1f3d93c965569268b.js
+/component---src-pages-tags-index-js-08bdfdbeb214809d204d.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-d4ae89795f1cbfb62ccb.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-4e90c3bd26c103dcc303.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/blog/2019-10-22-高額療養費制度/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+/blog/2019-12-23-女性の一人旅でもオススメできるゲストハウス選びのコツ！/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-10-24-障害年金/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-55fe547eb28193bd39cf.js>; rel=preload; as=script
+/blog/2019-12-23-booking-com-ゲスト・レビュー・アワードを受賞しました！/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-10-23-傷病手当金/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-55fe547eb28193bd39cf.js>; rel=preload; as=script
+/blog/2019-12-23-セブで格安ホテルに泊まるならゲストハウスの方が快適かも？/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-10-26-休業補償/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-55fe547eb28193bd39cf.js>; rel=preload; as=script
+/blog/2019-12-25-【セブ島】イギリス人バリスタのカフェ「-nanaymo」wifi有りでオシャレ！/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-10-27-療養補償・療養給付/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-55fe547eb28193bd39cf.js>; rel=preload; as=script
+/blog/2019-12-27-スターバックス-リザーブ®-がセブのitパークにオープンしました！/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-10-28-自立支援医療制度/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-55fe547eb28193bd39cf.js>; rel=preload; as=script
+/blog/2019-12-25-セブ島をレンタルバイクで探検しませんか？/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-11-01-医療費控除/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-55fe547eb28193bd39cf.js>; rel=preload; as=script
+/tags/ゲストハウス/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-12-02-出産手当金/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-edd4e31418bb41459012.js>; rel=preload; as=script
+/tags/news/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-12-01-出産育児一時金/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-edd4e31418bb41459012.js>; rel=preload; as=script
+/tags/セブおすすめスポット/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-12-03-育児休業給付金/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
-  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-12-04-産科医療補償制度/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
-  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-12-05-児童手当（子ども手当）/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
-  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/blog/2019-12-06-妊婦検診費用助成制度/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
-  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-2d73e1e271ca75962273.js>; rel=preload; as=script
-/tags/病気・ケガ/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
-  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-tags-js-e1963bb0c8a318b4b90b.js>; rel=preload; as=script
-/tags/病気・ケガ-戻ってくる/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
-  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-tags-js-e1963bb0c8a318b4b90b.js>; rel=preload; as=script
-/tags/病気・ケガ-もらえる/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
-  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-tags-js-e1963bb0c8a318b4b90b.js>; rel=preload; as=script
-/tags/妊娠・出産/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
-  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-tags-js-e1963bb0c8a318b4b90b.js>; rel=preload; as=script
-/tags/妊娠・出産-もらえる/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
-  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-templates-tags-js-e1963bb0c8a318b4b90b.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-edd4e31418bb41459012.js>; rel=preload; as=script
 /404/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
   Link: </component---src-pages-404-js-b64d0b7b3309b3216a83.js>; rel=preload; as=script
 /blog/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-pages-blog-index-js-4ca2de93b42a69eaf9f3.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-index-js-1175747bcf6b005bda9c.js>; rel=preload; as=script
 /contact/file-upload/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
   Link: </component---src-pages-contact-file-upload-js-c7f7966a5becc335e635.js>; rel=preload; as=script
 /contact/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-pages-contact-index-js-2d1c8a1286bd8a349fc7.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-pages-contact-index-js-07bcdd0f9af08da276ae.js>; rel=preload; as=script
 /contact/thanks/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-pages-contact-thanks-js-154dd347aefb6390d51f.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-pages-contact-thanks-js-95ca23888d98baf53c94.js>; rel=preload; as=script
+/etanbetsu/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
+  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-pages-etanbetsu-js-3872ff87aa150595e474.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-pages-index-js-7cff293232425a6d0871.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-f38a4e2a872f9128735f.js>; rel=preload; as=script
+/kori/
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
+  Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-pages-kori-js-19d2e3631f2d8277d95c.js>; rel=preload; as=script
 /tags/
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </component---src-pages-tags-index-js-d1e8d6f0740f2dc12405.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </component---src-pages-tags-index-js-08bdfdbeb214809d204d.js>; rel=preload; as=script
 /404.html
-  Link: </webpack-runtime-73df07ceb98167a08373.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
-  Link: </app-2be1f3d93c965569268b.js>; rel=preload; as=script
+  Link: </webpack-runtime-d4ae89795f1cbfb62ccb.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
+  Link: </app-4e90c3bd26c103dcc303.js>; rel=preload; as=script
   Link: </styles-460f55ba72986a40fe59.js>; rel=preload; as=script
-  Link: </commons-d1ea12bf9b79e430d3ee.js>; rel=preload; as=script
+  Link: </commons-64fffa09c0fac7f1e245.js>; rel=preload; as=script
   Link: </component---src-pages-404-js-b64d0b7b3309b3216a83.js>; rel=preload; as=script
