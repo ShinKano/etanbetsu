@@ -5,7 +5,7 @@ const Gallery_1_2 = (props) => (
         <div className="columns">
             <div className="column">
                 <figure className="image is-5by3">
-                    <img className="border-radius" src={props.img1} alt="" />
+                    <img className="border-radius" src={props.img1} alt="top" />
                 </figure>
             </div>
         </div>
@@ -14,13 +14,13 @@ const Gallery_1_2 = (props) => (
                 <div className="columns is-mobile">
                     <div className="column is-6">
                         <figure className="image is-5by3">
-                            <img className="border-radius" src={props.img2} alt="" />
+                            <img className="border-radius" src={props.img2} alt="left" />
                         </figure>
                     </div>
 
                     <div className="column is-6">
                         <figure className="image is-5by3">
-                            <img className="border-radius" src={props.img3} alt="" />
+                            <img className="border-radius" src={props.img3} alt="right" />
                         </figure>
                     </div>
                 </div>
