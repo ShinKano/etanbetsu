@@ -48,7 +48,6 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="https://www.engori.com/" />
-        <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP:400,600&display=swap&subset=japanese" rel="stylesheet" />
         <meta name="google-site-verification" content="AtBXV62-NYJ_gWHW-q9hBGDC0iYSt3vkvl2r8lfcTac" />
         
       </Helmet>
