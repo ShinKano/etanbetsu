@@ -3,10 +3,12 @@ module.exports = {
     title: '日本一寒い村・北海道 江丹別の天然氷',
     description:
       '日本で一番寒い村・北海道の江丹別で作る天然氷です。絶品のかき氷はもちろん、焼酎・ウイスキーなどのお酒やアイスコーヒーの味を損ないません。',
+    siteUrl: `https://www.engori.com`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
+    'gatsby-plugin-sitemap',
     'gatsby-plugin-styled-components',
     {
         resolve: `gatsby-plugin-google-analytics`,
